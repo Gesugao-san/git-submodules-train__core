@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "codezombiech.gitignore",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "felipecaputo.git-project-manager",
+        "github.vscode-pull-request-github",
+        "ms-vscode.powershell",
+        "oderwat.indent-rainbow",
+        "piotrpalarz.vscode-gitignore-generator",
+        "redvanworkshop.explorer-exclude-vscode-extension",
+        "shan.code-settings-sync",
+        "usernamehw.errorlens",
+    ]
+}
